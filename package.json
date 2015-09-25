@@ -1,0 +1,28 @@
+{
+  "name": "chatty1",
+  "version": "1.0.0",
+  "description": "chatty ======",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log('got it');",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryanschauerte/chatty.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryanschauerte/chatty/issues"
+  },
+  "homepage": "https://github.com/Bryanschauerte/chatty#readme",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "express": "^4.13.3"
+  }
+}
